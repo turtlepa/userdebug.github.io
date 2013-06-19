@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-10.1" />
+    <project path="device/samsung/galaxys4gmtd" name="teamuserdebug/android_device_samsung_galaxys4gmtd_aries" revision="cm-10.1" />
+    <project path="device/samsung/aries-common" name="teamuserdebug/android_device_samsung_aries-common" revision="cm-10.1" />
+    <project path="vendor/samsung" name="teamuserdebug/proprietary_vendor_samsung" revision="cm-10.1" />
+    <project path="kernel/samsung/aries" name="teamuserdebug/android_kernel_samsung_aries" revision="cm-10.1" />
+    <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-10.1" />
+</manifest>
